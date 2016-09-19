@@ -8,11 +8,8 @@ const cim = {
         return `${this.varos},${this.utca}`
     }
 }
-
 cim.iranyitoszam = '1117'
-
 console.log(cim.toString())
-
 
 class Point {
     constructor(x, y) {
