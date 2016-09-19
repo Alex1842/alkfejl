@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Alex1842/alkfejl/issues"
   },
-  "homepage": "https://github.com/Alex1842/alkfejl#readme"
+  "homepage": "https://github.com/Alex1842/alkfejl#readme",
+  "dependencies": {
+    "jimp": "^0.2.27"
+  }
 }
